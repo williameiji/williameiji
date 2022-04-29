@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 name: Waka Readme
 
 on:
@@ -32,3 +31,5 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ 40bd45cc-ae7f-4e63-bc97-b1414163f9ae }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+<!--END_SECTION:waka-->
+
