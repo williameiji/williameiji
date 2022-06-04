@@ -2,6 +2,8 @@
 
 
 🔖My name is William Eiji Fujimori, 📚 started learn Web Development at Driven and until now this was one of the best decision that i made.😁
+<br />
+<br />
 
 <!--START_SECTION:waka-->
 
@@ -29,10 +31,25 @@ JavaScript               7 repos             ███████████�
 HTML                     2 repos             █████░░░░░░░░░░░░░░░░░░░░   22.22%
 
 ```
-
-
-
 <!--END_SECTION:waka-->
 
+### Learning 📖
 
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
+<br />
+<br />
+<br />
+
+### Find me here:
+
+[<img align="left" alt="Discord" width="26px" src="https://github.com/williameiji/williameiji/blob/main/images/discord.svg" />][1]
+[<img align="left" alt="Discord" width="26px" src="https://github.com/williameiji/williameiji/blob/main/images/instagram.svg" />][2]
+[<img align="left" alt="Discord" width="26px" src="https://github.com/williameiji/williameiji/blob/main/images/linkedin.svg" />][3]
+
+[1]: https://discordapp.com/users/Eiji#5872
+[2]: https://www.instagram.com/williameiji/
+[3]: https://www.linkedin.com/in/william-eiji-fujimori/
