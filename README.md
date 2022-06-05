@@ -6,13 +6,13 @@
 <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-203%20hrs%2015%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 147 Contributions in the Year 2022
+> 🏆 148 Contributions in the Year 2022
  > 
 > 📦 16.4 kB Used in GitHub's Storage 
  > 
@@ -26,9 +26,6 @@
 
 ```text
 ⌚︎ Time Zone: America/Sao_Paulo
-
-🔥 Editors: 
-VS Code                  1 hr 23 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
 Linux                    1 hr 23 mins        █████████████████████████   99.73% 
@@ -46,7 +43,7 @@ HTML                     2 repos             █████░░░░░░�
 
 
 
- Last Updated on 05/06/2022 12:40:49 UTC
+ Last Updated on 05/06/2022 12:47:11 UTC
 <!--END_SECTION:waka-->
 
 ### Learning 📖
