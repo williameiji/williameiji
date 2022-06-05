@@ -5,7 +5,7 @@
 <br />
 <br />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=williameiji&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williameiji&theme=nightowl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
@@ -26,6 +26,9 @@ HTML                     2 repos             █████░░░░░░�
 
  Last Updated on 05/06/2022 23:38:07 UTC
 <!--END_SECTION:waka-->
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=williameiji&theme=nightowl&show_icons=true&hide_border=true" alt="William's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williameiji&theme=nightowl&layout=compact&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 ### Learning 📖
 
