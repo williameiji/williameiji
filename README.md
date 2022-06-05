@@ -13,19 +13,6 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
-
-**🐱 My GitHub Data** 
-
-> 🏆 150 Contributions in the Year 2022
- > 
-> 📦 16.4 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 9 Public Repositories 
- > 
-> 🔑 0 Private Repositories  
- > 
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -36,7 +23,7 @@ HTML                     2 repos             █████░░░░░░�
 
 
 
- Last Updated on 05/06/2022 18:45:19 UTC
+ Last Updated on 05/06/2022 23:38:07 UTC
 <!--END_SECTION:waka-->
 
 ### Learning 📖
