@@ -22,15 +22,6 @@
  > 
 > 🔑 0 Private Repositories  
  > 
-📊 **This Week I Spent My Time On** 
-
-```text
-💻 Operating System: 
-Linux                    1 hr 23 mins        █████████████████████████   99.73% 
-Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.27%
-
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -41,7 +32,7 @@ HTML                     2 repos             █████░░░░░░�
 
 
 
- Last Updated on 05/06/2022 12:50:30 UTC
+ Last Updated on 05/06/2022 12:57:21 UTC
 <!--END_SECTION:waka-->
 
 ### Learning 📖
