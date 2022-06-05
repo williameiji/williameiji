@@ -8,25 +8,6 @@
 
 
 
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-203%20hrs%2015%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               7 repos             ███████████████████░░░░░░   77.78% 
-HTML                     2 repos             █████░░░░░░░░░░░░░░░░░░░░   22.22%
-
-```
-
-
-
- Last Updated on 05/06/2022 23:38:07 UTC
-<!--END_SECTION:waka-->
-
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=williameiji&theme=nightowl&show_icons=true&hide_border=true" alt="William's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williameiji&theme=nightowl&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
 
