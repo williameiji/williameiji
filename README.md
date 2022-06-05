@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-🔖My name is William Eiji Fujimori, 📚 started learn Web Development at Driven and i'm enjoying .😁
+🔖My name is William Eiji Fujimori, 📚 started learn Full Stack Web Development at Driven.😁
 <br />
 <br />
 
