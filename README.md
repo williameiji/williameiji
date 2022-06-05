@@ -12,7 +12,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 148 Contributions in the Year 2022
+> 🏆 147 Contributions in the Year 2022
  > 
 > 📦 16.4 kB Used in GitHub's Storage 
  > 
@@ -25,8 +25,6 @@
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: America/Sao_Paulo
-
 💻 Operating System: 
 Linux                    1 hr 23 mins        █████████████████████████   99.73% 
 Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.27%
@@ -43,7 +41,7 @@ HTML                     2 repos             █████░░░░░░�
 
 
 
- Last Updated on 05/06/2022 12:47:11 UTC
+ Last Updated on 05/06/2022 12:50:30 UTC
 <!--END_SECTION:waka-->
 
 ### Learning 📖
