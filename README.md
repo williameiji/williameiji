@@ -7,7 +7,7 @@
 
 
 
-| <a href="https://github.com/williameiji/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=williameiji&theme=nightowl&show_icons=true&hide_border=true" alt="William's github stats" /></a> | <a href="https://github.com/williameiji/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williameiji&theme=nightowl&layout=compact&hide_border=true" /></a> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=williameiji&theme=nightowl&show_icons=true&hide_border=true" alt="William's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williameiji&theme=nightowl&layout=compact&hide_border=true" /> |
 | ------------- | ------------- |
 
 <br />
