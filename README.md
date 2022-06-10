@@ -21,15 +21,14 @@
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/es6/es6.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" />
 
-
 <br />
 <br />
 
 ### Find me here:
 
-[<img align="left" alt="Discord" width="26px" src="https://github.com/williameiji/williameiji/blob/main/images/discord.svg" />][1]
-[<img align="left" alt="Discord" width="26px" src="https://github.com/williameiji/williameiji/blob/main/images/instagram.svg" />][2]
-[<img align="left" alt="Discord" width="26px" src="https://github.com/williameiji/williameiji/blob/main/images/linkedin.svg" />][3]
+[<img align="left" alt="Discord" width="26px" src="https://user-images.githubusercontent.com/86417618/173072767-6fa68c7e-a6eb-4ac1-8a48-cd5069999bcd.svg" />][1]
+[<img align="left" alt="intagram" width="26px" src="https://user-images.githubusercontent.com/86417618/173072654-6b8f8057-3cf1-4520-9206-15160535c80c.svg" />][2]
+[<img align="left" alt="linkedin" width="26px" src="https://user-images.githubusercontent.com/86417618/173072709-aeeaedce-9036-4786-a21e-1bc017910e63.svg" />][3]
 
 [1]: https://discordapp.com/users/Eiji#5872
 [2]: https://www.instagram.com/williameiji/
