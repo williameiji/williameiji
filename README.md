@@ -6,9 +6,9 @@
 <br />
 
 
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=williameiji&theme=nightowl&show_icons=true&hide_border=true" alt="William's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williameiji&theme=nightowl&layout=compact&hide_border=true" /> |
-| ------------- | ------------- |
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=williameiji&theme=nightowl&show_icons=true&hide_border=true" alt="William's github stats" /> 
+</div>
 
 <br />
 
