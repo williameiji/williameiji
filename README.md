@@ -22,6 +22,7 @@
 <img align="left" alt="es6" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" />
 <img align="left" alt="webpack" width="26px" src="https://user-images.githubusercontent.com/86417618/173895403-3207b532-630d-465f-a799-82018fa3f9d3.svg" />
 <img align="left" alt="postgres" width="26px" src="https://user-images.githubusercontent.com/86417618/181770058-0c5249c7-64a6-4cf5-be20-cc04e2341b83.svg" />
+<img align="left" alt="typescript" width="26px" src="https://user-images.githubusercontent.com/86417618/189734909-1a22ef8a-4bc2-454e-ba1e-a5e9d998db34.svg" />
 
 
 <br />
