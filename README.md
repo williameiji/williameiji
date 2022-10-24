@@ -1,7 +1,9 @@
-### Hi there 👋
+### Hi there, I'm  William Eiji Fujimori 👋
 
 
-🔖My name is William Eiji Fujimori, 📚 started learn Full Stack Web Development at Driven.😁
+🔖I am a full stack web developer and gamer. I love programming.😁
+As a programmer, I like to pay attention to details, and always seek new knowledge.
+
 <br />
 <br />
 
