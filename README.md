@@ -4,6 +4,8 @@
 🔖I am a full stack web developer and gamer. I love programming.😁
 As a programmer, I like to pay attention to details, and always seek new knowledge.
 
+I worked in the education field for a few years, starting with customer service to managing the team, I ended up entering the technology field by referral. I started studying frontend and then backend, I got really interested in the devops part!
+
 <br />
 <br />
 
@@ -34,6 +36,8 @@ As a programmer, I like to pay attention to details, and always seek new knowled
 
 [<img align="left" alt="Discord" width="26px" src="https://user-images.githubusercontent.com/86417618/173072767-6fa68c7e-a6eb-4ac1-8a48-cd5069999bcd.svg" />][1]
 [<img align="left" alt="linkedin" width="26px" src="https://user-images.githubusercontent.com/86417618/173072709-aeeaedce-9036-4786-a21e-1bc017910e63.svg" />][3]
+<img align="left" alt="gmail" width="26px" src="https://user-images.githubusercontent.com/86417618/198731044-65434c26-fabf-49b5-80ca-f5ba61ab74d1.svg" /> william.fujimori@gmail.com
+
 
 [1]: https://discordapp.com/users/Eiji#5872
 [3]: https://www.linkedin.com/in/william-eiji-fujimori/
