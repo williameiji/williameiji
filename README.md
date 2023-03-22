@@ -11,7 +11,7 @@ I worked in the education field for a few years, starting with customer service 
 
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=williameiji&theme=nightowl&count_private=true&show_icons=true&hide_border=true" alt="William's github stats" /> 
+<img src="https://github-readme-stats.vercel.app/api?username=williameiji&theme=tokyonight&count_private=true&show_icons=true&hide_border=true" alt="William's github stats" /> 
 </div>
 
 <br />
